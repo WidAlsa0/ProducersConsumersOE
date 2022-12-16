@@ -1,0 +1,186 @@
+<Events startTimestamp="1671211221867" logVersion="1.0.0.202111260825">
+  <Command __id="33" _type="ShellCommand" date="Fri Dec 16 12:21:49 EST 2022" starttimestamp="1671211221867" timestamp="87487" type="ECLIPSE_GAINED_FOCUS" />
+  <Command __id="35" _type="EclipseCommand" commandID="org.eclipse.e4.ui.importer.openDirectory" date="Fri Dec 16 12:21:49 EST 2022" starttimestamp="1671211221867" timestamp="87604" />
+  <Command __id="0" _type="DiffBasedFileOpenCommand" date="Fri Dec 16 12:20:22 EST 2022" docASTNodeCount="233" docActiveCodeLength="1446" docExpressionCount="153" docLength="1446" projectName="ProducersConsumersV3" starttimestamp="1671211221867" timestamp="303">
+    <filePath><![CDATA[C:\Users\wid\eclipse-workspace\ProducersConsumersV3\src\graphics\ABoundedBuffer.java]]></filePath>
+    <diff><![CDATA[null]]></diff>
+    <snapshot><![CDATA[package graphics;
+
+import bus.uigen.OEFrame;
+import bus.uigen.ObjectEditor;
+import bus.uigen.shapes.ALineModel;
+import bus.uigen.shapes.AnOvalModel;
+import bus.uigen.shapes.OEShapeModel;
+import util.annotations.EditablePropertyNames;
+import util.annotations.PropertyNames;
+import util.annotations.StructurePattern;
+import util.annotations.StructurePatternNames;
+
+@StructurePattern(StructurePatternNames.BEAN_PATTERN)
+@PropertyNames({
+	"circle",
+	"lineOne"
+	
+})
+@EditablePropertyNames({
+	
+})
+public class ABoundedBuffer implements BoundedBuffer {
+	int INIT_X = 420;
+	int INIT_Y = 175;
+	int INIT_CIRCLE_HEIGHT = 350;
+	int INIT_CIRCLE_WIDTH = 350;
+	double LINE_ONE_ANGLE = (3*Math.PI)/4;
+	int INIT_LINE_Y = 350;
+	
+	OEShapeModel circle;
+	OEShapeModel lineOne;
+	
+	public ABoundedBuffer() {
+		circle = new AnOvalModel();
+		circle.setHeight(INIT_CIRCLE_HEIGHT);
+		circle.setWidth(INIT_CIRCLE_WIDTH);
+		circle.setX(INIT_X);
+		circle.setY(INIT_Y);
+		
+		lineOne = new ALineModel();
+		lineOne.setX(INIT_X);
+		lineOne.setY(INIT_LINE_Y);
+		lineOne.setAngle(LINE_ONE_ANGLE);
+		lineOne.setRadius(175);
+		
+	}
+	
+	public OEShapeModel getCircle() {
+		return circle;
+	}
+	
+	public OEShapeModel getLineOne() {
+		return lineOne;
+	}
+	
+	public static void main(String[] args) {
+		final BoundedBuffer buffer = new ABoundedBuffer();
+		OEFrame editor = ObjectEditor.edit(buffer);
+		editor.showDrawPanel();
+	}
+
+}
+]]></snapshot>
+  </Command>
+  <Command __id="39" _type="MoveCaretCommand" caretOffset="103" date="Fri Dec 16 12:22:07 EST 2022" docOffset="239" starttimestamp="1671211221867" timestamp="105360" />
+  <Command __id="36" _type="DiffBasedFileOpenCommand" date="Fri Dec 16 12:22:06 EST 2022" docASTNodeCount="6" docActiveCodeLength="60" docExpressionCount="2" docLength="60" projectName="ProducersConsumersV3" starttimestamp="1671211221867" timestamp="104686">
+    <filePath><![CDATA[C:\Users\wid\eclipse-workspace\ProducersConsumersV3\src\graphics\BoundedBuffer.java]]></filePath>
+    <diff><![CDATA[null]]></diff>
+    <snapshot><![CDATA[package graphics;
+
+public interface BoundedBuffer {
+
+}
+]]></snapshot>
+  </Command>
+  <Command __id="38" _type="DiffBasedFileOpenCommand" date="Fri Dec 16 12:22:07 EST 2022" docASTNodeCount="142" docActiveCodeLength="1032" docExpressionCount="77" docLength="1558" projectName="ProducersConsumer - Copy (2)" starttimestamp="1671211221867" timestamp="105144">
+    <filePath><![CDATA[C:\Users\wid\eclipse-workspace\ProducersConsumer - Copy (2)\src\pc\graphics\ACircle.java]]></filePath>
+    <diff><![CDATA[null]]></diff>
+    <snapshot><![CDATA[package pc.graphics;
+
+import java.awt.Color;
+import java.beans.PropertyChangeListener;
+
+import util.annotations.StructurePattern;
+import util.annotations.StructurePatternNames;
+
+@StructurePattern(StructurePatternNames.OVAL_PATTERN)
+public class ACircle extends ABoundedShape implements Circle {
+	int x;
+	int y;
+	int radius;
+	int height;
+	int width;
+	int INITIAL_X = 420;
+	int INITIAL_Y = 175;
+	int INITIAL_Width = 350;
+	int INITIAL_Height = 350;
+	
+	PropertyListenerSupport propertySupport = new APropertyListenerSupport();
+
+	public ACircle() {
+		setX(INITIAL_X);
+		setY(INITIAL_Y);
+		setHeight(INITIAL_Height);
+		setWidth(INITIAL_Width);	
+	}
+	
+	
+	public Color getColor() {
+		return Color.DARK_GRAY;
+	}
+	public boolean isFilled() {
+		return true;
+	}
+
+//
+//	@Override
+//	public int getHeight() {
+//		return height;
+//	}
+//
+//
+//	@Override
+//	public int getWidth() {
+//		return width;
+//	}
+//
+//	@Override
+//	public void setHeight(int NewHeight) {
+//		height = NewHeight;
+//	}
+//
+//
+//	@Override
+//	public void setWidth(int NewWidth) {
+//		width = NewWidth;
+//	}
+//
+//
+//	@Override
+//	public void setX(int NewX) {
+//		x = NewX;
+//	}
+//
+//
+//	@Override
+//	public void setY(int NewY) {
+//		y = NewY;
+//	}
+//
+//
+//	@Override
+//	public int getX() {
+//		return x;
+//	}
+//
+//
+//	@Override
+//	public int getY() {
+//		return y;
+//	}
+	
+
+
+	@Override
+	public void addPropertyChangeListener(PropertyChangeListener arg0) {
+		propertySupport.addPropertyChangeListener(arg0);
+	}	
+	
+}
+]]></snapshot>
+  </Command>
+  <Command __id="41" _type="PauseCommand" date="Fri Dec 16 12:22:08 EST 2022" range="1s-2s" starttimestamp="1671211221867" timestamp="106766">
+    <prevType><![CDATA[Move Caret]]></prevType>
+    <prev><![CDATA[MoveCaretCommand]]></prev>
+    <pause><![CDATA[1406]]></pause>
+    <nextType><![CDATA[Open File]]></nextType>
+    <next><![CDATA[DiffBasedFileOpenCommand]]></next>
+  </Command>
+</Events>

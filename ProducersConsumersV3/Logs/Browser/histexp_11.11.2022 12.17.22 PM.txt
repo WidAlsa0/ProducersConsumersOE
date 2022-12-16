@@ -1,0 +1,133 @@
+11/11/2022 12:33:24 PM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+11/11/2022 12:33:24 PM	ConnectCarolina session expired	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/?cmd=expire
+11/11/2022 12:36:42 PM	Gaskin Library, Greenlaw Hall 5th Floor - UNC English & Comparative Literature	https://englishcomplit.unc.edu/venue/gaskin-library-greenlaw-hall-5th-floor/?tribe_venue=gaskin-library-greenlaw-hall-5th-floor&tribe_event_display=past
+11/12/2022 14:35:37 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+11/12/2022 14:35:36 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/12/2022 14:35:40 PM	Sakai @ UNC-Chapel Hill : ECON522.001.FA22 : Overview	https://sakai.unc.edu/portal/site/788a5963-2e41-4ac5-8cc9-ac336f616e0a
+11/12/2022 14:35:42 PM		https://sakai.unc.edu/portal/tool/f495ae79-5291-4429-9f6a-af9db9c2dee8/synMainLite?time=1
+11/12/2022 14:35:42 PM	Sakai @ UNC-Chapel Hill : ECON522.001.FA22 : Resources	https://sakai.unc.edu/portal/site/788a5963-2e41-4ac5-8cc9-ac336f616e0a/tool/4ea63514-8bab-4efa-8deb-6962748e493f
+11/12/2022 14:35:45 PM	Sakai @ UNC-Chapel Hill : ECON522.001.FA22 : Resources	https://sakai.unc.edu/portal/site/788a5963-2e41-4ac5-8cc9-ac336f616e0a/tool/4ea63514-8bab-4efa-8deb-6962748e493f#
+11/12/2022 14:35:45 PM	Sakai @ UNC-Chapel Hill : ECON522.001.FA22 : Resources	https://sakai.unc.edu/portal/site/788a5963-2e41-4ac5-8cc9-ac336f616e0a/tool/4ea63514-8bab-4efa-8deb-6962748e493f?panel=Main
+11/12/2022 14:34:20 PM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1_7V8A9QfYhxb1UtauXCykEytWmjCbBkY
+11/12/2022 14:36:32 PM	Labor Supply Fall 2022.pdf	https://sakai.unc.edu/access/content/group/788a5963-2e41-4ac5-8cc9-ac336f616e0a/Lecture%20Slides/Labor%20Supply%20Fall%202022.pdf
+11/12/2022 14:34:53 PM	11/08 Lecture - Google Docs	https://docs.google.com/document/d/1M_REfFFYvIZJ6VQpXBSF0SmBIITR_OxtDSoXpxz9SCA/edit
+11/12/2022 14:34:44 PM	11/10 Lecture - Google Docs	https://docs.google.com/document/d/1V7do0wR9VC7r0YIQiG4snTT3VfJZS5hjIBS7Dl0rJvg/edit
+11/12/2022 14:34:25 PM	Paper Brainstorm - Google Docs	https://docs.google.com/document/d/1SnpKINywHY0g5rqRNtdL3r4MowjzExOeg0MbpPTReOY/edit
+11/12/2022 14:34:39 PM	11/10 Lecture - Google Docs	https://docs.google.com/document/d/1V7do0wR9VC7r0YIQiG4snTT3VfJZS5hjIBS7Dl0rJvg/edit?usp=drive_web&ouid=100407440431679426204
+11/12/2022 14:34:48 PM	11/08 Lecture - Google Docs	https://docs.google.com/document/d/1M_REfFFYvIZJ6VQpXBSF0SmBIITR_OxtDSoXpxz9SCA/edit?usp=drive_web&ouid=100407440431679426204
+11/12/2022 14:35:33 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdT4MwFIb%2FCun9VugmSjNIcLtwyVQy0AtvTClHaYQWe4of%2F1425jITs%2Bu%2BH32fnAWKtul42rtab%2BG9B3TeV9to5PuHmPRWcyNQIdeiBeRO8jy93XA29XlnjTPSNMRLEcE6ZfTSaOxbsDnYDyXhYbuJSe1ch5xSFG9CTXstp1D1NK9VWZoGXD1FNHQXymh2nxfEWw2%2FUFrs8k7caI5eVXV0KH9RDRyMW6iUBelont8Tb72KyXMEgsl5FJaBX0lxeRVCOJMyDKK5z6CqykGG2MNaoxPaxYT5jE2CYBKwIoj47IKz6Il42WHjtdKV0q%2FngZSjCPlNUWSTccwjWNwPGQQkWeyw8n2xPQF9Plb80iXJ%2FyzxyHJBTwrGto7fDYnrVWYaJb%2B9tGnM59KCcBCTgNBktPy9geQH&RelayState=ss%3Amem%3A0c6678620c7fd0ad20390160f8a4bd5d5a28ce4db400592a3f18ca0bf724230b&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=NxwwlPuqWqo%2BMTlvtScJwfhFcX5ev5Nnzeqv2KUM%2FpYRksPDimuCg9sWm1Dq7LfKr2XjqehbU3niUepa5%2F82ZQ9qwY1PX7yuKV%2FxK3XpJKS2s71NG4op1eZHS6jTPEW6SCG%2BeGbz%2BJ%2BQ62BboM5Xr7TcnflUzkx%2BOey9EmKWJ7iVoAZ%2BPqGDc2fK0sYm4O5mfgtBDFreyVITU7yhHBCUq4KxTdP2Y8Piy%2BWojKkCnA0HQgEZAiKxDnFeTd66zRuncFK%2F9QTG0PHT2LQ6JPw%2BbVlzSvF6qo1jOcuOUAXUcd%2F15ZdiiOH%2BYLBjf6f9e52wTxGc6IdbR5LYNe9J3hnY5g%3D%3D
+11/12/2022 14:40:45 PM	Paper Brainstorm - Google Docs	https://docs.google.com/document/d/1SnpKINywHY0g5rqRNtdL3r4MowjzExOeg0MbpPTReOY/edit
+11/12/2022 14:46:00 PM	Paper Brainstorm - Google Docs	https://docs.google.com/document/d/1SnpKINywHY0g5rqRNtdL3r4MowjzExOeg0MbpPTReOY/edit
+11/12/2022 14:51:11 PM	Paper Brainstorm - Google Docs	https://docs.google.com/document/d/1SnpKINywHY0g5rqRNtdL3r4MowjzExOeg0MbpPTReOY/edit
+11/12/2022 15:23:22 PM	11/08 Lecture - Google Docs	https://docs.google.com/document/d/1M_REfFFYvIZJ6VQpXBSF0SmBIITR_OxtDSoXpxz9SCA/edit
+11/12/2022 15:23:47 PM	Paper Brainstorm - Google Docs	https://docs.google.com/document/d/1SnpKINywHY0g5rqRNtdL3r4MowjzExOeg0MbpPTReOY/edit
+11/12/2022 15:29:43 PM	Sakai @ UNC-Chapel Hill : ECON522.001.FA22 : Resources	https://sakai.unc.edu/portal/site/788a5963-2e41-4ac5-8cc9-ac336f616e0a/tool/4ea63514-8bab-4efa-8deb-6962748e493f?panel=Main
+11/12/2022 16:30:31 PM	UNC-Chapel Hill Single Sign-On	https://sakai.unc.edu/Shibboleth.sso/Logout?return=https://sso.unc.edu/idp/logout.jsp
+11/13/2022 12:55:35 PM	ConnectCarolina	https://connectcarolina.unc.edu/
+11/13/2022 12:55:41 PM	Scheduled Maintenance	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/h/?tab=NC_REDIRECT&TargetPage=PortalHome
+11/13/2022 12:55:45 PM	UNC-Chapel Hill Single Sign-On - Stale Request	https://sso.unc.edu/idp/profile/SAML2/POST/SSO
+11/13/2022 12:55:41 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/POST/SSO?execution=e1s1
+11/13/2022 12:55:41 PM	ConnectCarolina session expired	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage?URL=https%3A%2F%2Fpa.cc.unc.edu%2Fpsp%2Fpaprd%2FEMPLOYEE%2FEMPL%2Fh%2F%3Ftab%3DNC_REDIRECT%26TargetPage%3DPortalHome
+11/13/2022 12:55:42 PM		https://cs.cc.unc.edu/Shibboleth.sso/Login
+11/13/2022 12:55:42 PM	An error has occurred.	https://cs.cc.unc.edu/
+11/13/2022 12:55:42 PM		https://fs.cc.unc.edu/Shibboleth.sso/Login
+11/13/2022 12:55:43 PM		https://fs.cc.unc.edu/
+11/13/2022 12:55:43 PM	https://hc.cc.unc.edu/Shibboleth.sso/Login	https://hc.cc.unc.edu/Shibboleth.sso/Login
+11/13/2022 12:55:43 PM	An error has occurred.	https://hc.cc.unc.edu/
+11/13/2022 12:55:43 PM		https://csrpt.cc.unc.edu/Shibboleth.sso/Login
+11/13/2022 12:55:44 PM	500 Proxy Error	https://csrpt.cc.unc.edu/
+11/13/2022 12:55:44 PM		https://fsrpt.cc.unc.edu/Shibboleth.sso/Login
+11/13/2022 12:55:44 PM	Error 500--Internal Server Error	https://fsrpt.cc.unc.edu/
+11/13/2022 12:55:45 PM		https://hcrpt.cc.unc.edu/Shibboleth.sso/Login
+11/13/2022 12:55:45 PM	Homepage	https://hcrpt.cc.unc.edu/
+11/13/2022 12:55:48 PM	Homepage	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+11/13/2022 12:55:49 PM	Student	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL?InfoShibsession=true
+11/13/2022 12:55:55 PM	Student Center	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+11/13/2022 12:56:14 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?Page=SSR_CLSRCH_ENTRY&Action=U
+11/13/2022 12:56:02 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?Page=SSR_CLSRCH_ENTRY&Action=U&ExactKeys=Y
+11/13/2022 12:56:04 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_MY_PLANNER.GBL?Page=SSS_MY_PLANNER&Action=A
+11/13/2022 12:56:05 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A
+11/13/2022 12:56:08 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES_2.SSR_SSENRL_CART.GBL?Page=SSR_SSENRL_CART&Action=A&ACAD_CAREER=UGRD&EMPLID=730335824&INSTITUTION=UNCCH&STRM=2232
+11/13/2022 13:06:39 PM	Class Search	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+11/13/2022 13:06:43 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?Page=SSR_CLSRCH_ENTRY&Action=U&ExactKeys=Y
+11/13/2022 13:10:15 PM	Student Center	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSS_STUDENT_CENTER.GBL
+11/13/2022 13:10:06 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.CLASS_SEARCH.GBL?Page=SSR_CLSRCH_ENTRY&Action=U
+11/13/2022 13:10:16 PM	Student	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL
+11/13/2022 13:10:00 PM		https://cs.cc.unc.edu/psc/campus/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_SCHD_W.GBL?Page=SSR_SS_WEEK&Action=A&ExactKeys=Y&EMPLID=730335824
+11/13/2022 13:10:10 PM	My Weekly Schedule	https://pa.cc.unc.edu/psp/paprd/EMPLOYEE/SA/c/SA_LEARNER_SERVICES.SSR_SSENRL_SCHD_W.GBL?Action=A&ExactKeys=Y&EMPLID=730335824
+11/13/2022 16:25:02 PM	Student	https://pa.cc.unc.edu/psc/paprd/EMPLOYEE/EMPL/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL
+11/13/2022 16:27:36 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/logout.jsp
+11/13/2022 16:25:48 PM	11/08 Lecture - Google Docs	https://docs.google.com/document/d/1M_REfFFYvIZJ6VQpXBSF0SmBIITR_OxtDSoXpxz9SCA/edit
+11/13/2022 16:27:43 PM	HW 11/18 - Edfinity	https://edfinity.com/assessments/new?registration_id=62fc0e04c1859400275f00be&assignment_id=636e5df201e5af0027e0f956
+11/13/2022 19:06:56 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+11/13/2022 19:06:55 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/13/2022 19:06:59 PM	Sakai @ UNC-Chapel Hill : LFIT113.408.FA22 : Overview	https://sakai.unc.edu/portal/site/f9a07d99-fd05-49c0-b2fb-11118642469e
+11/13/2022 19:07:06 PM	Sakai @ UNC-Chapel Hill : LFIT113.408.FA22 : Gradebook	https://sakai.unc.edu/portal/site/f9a07d99-fd05-49c0-b2fb-11118642469e/tool/aad42615-367b-4370-af8f-e196538bd2f2
+11/13/2022 19:06:52 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJbT4MwGIb%2FCun9KCDqbAYJbhcumW4Z6IU3prTfpBFa7Fc8%2FHthzGUmZrfte%2Bj7pDPkTd2yrHOV3sJ7B%2Bi8r6bWyPYXCemsZoajQqZ5A8icYHl2v2KRH7DWGmeEqYmXIYJ1yui50dg1YHOwH0rA43aVkMq5FhmlyN%2B48jstfJAdzStVlqYGV%2FmIhg6hEd2s84J4i%2F4VSvMh78SN5uhVsqV9%2BU7VcDBuQSoLwtE8XxNvuUjIC49lPN3JsLyRURReCDEtJb8Mpze7KIiiQPQyxA6WGh3XLiHD6SQMJ2FcBAELrlh8%2FUy8zWHjrdJS6dfzQMpRhOyuKDaTccwTWNwP6QUknQ1Y2b7YnoA%2BH8t%2F6ZL0f5Z4ZDmjJwVjW8se%2BsTlYmNqJb69rK7N59wCd5CQkNB0tPz9A%2BkP&RelayState=ss%3Amem%3A42ed5144f3bf84ac0955991403e9f39e65803af381d4e7ffedac478512707de0&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=fdGPatw2IeQaQ7Bjvj6o8YXQRi2DTojKLFVaShdpz5FiA7SKB6oB329SrQjWYN73L%2FRQLUWBwKL%2FibG1V8mbw%2B2jmW2Z8MPhblqmkQuAA06mXKK5nNTbBcMbpbU6MfsQ8GDE4zGHyWXVuC9GOm4G%2BEJn5Q1w0vEva7%2FtNLc4X7bsiDCkzV1%2FvGDfCPmyfD6HZBk2WpGpn6laVUKboCgsH6FIPhJjizDDaN41ttS7%2BEp8bmJsnhRZ5S1w37Cvq38%2BGcuF3xGYd0ZzCoiV%2FDtPkO1auBWwxKqEM40M3I%2BYMWl%2FP%2F4lEy%2FAlMFfjZ9Vi%2FFFWm1d6ejh47xkZR97ASt6Pg%3D%3D
+11/13/2022 19:07:01 PM	Sakai @ UNC-Chapel Hill : LFIT113.408.FA22 : Announcements	https://sakai.unc.edu/portal/site/f9a07d99-fd05-49c0-b2fb-11118642469e/tool/2e58ad4e-4da1-4037-813a-4149924af019
+11/13/2022 19:07:03 PM	Sakai @ UNC-Chapel Hill : LFIT113.408.FA22 : Announcements	https://sakai.unc.edu/portal/site/f9a07d99-fd05-49c0-b2fb-11118642469e/tool/2e58ad4e-4da1-4037-813a-4149924af019?itemReference=/announcement/msg/f9a07d99-fd05-49c0-b2fb-11118642469e/main/95ee4f10-efbb-4a50-9dfe-04e77615d418&sakai_action=doShowmetadata
+11/13/2022 21:02:30 PM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1x3XK8UnebxpCmuikrV3Yn4WRplh9bb1k
+11/13/2022 21:05:33 PM	Trucks - Google Docs	https://docs.google.com/document/d/1D-T0Ea8ojJN2CDj_0PujQa76s34rXpNaDf6T3W1l-so/edit
+11/13/2022 21:09:51 PM	Trucks - Google Docs	https://docs.google.com/document/d/1D-T0Ea8ojJN2CDj_0PujQa76s34rXpNaDf6T3W1l-so/edit
+11/13/2022 21:14:48 PM	Trucks - Google Docs	https://docs.google.com/document/d/1D-T0Ea8ojJN2CDj_0PujQa76s34rXpNaDf6T3W1l-so/edit
+11/13/2022 21:20:04 PM	Trucks - Google Docs	https://docs.google.com/document/d/1D-T0Ea8ojJN2CDj_0PujQa76s34rXpNaDf6T3W1l-so/edit
+11/13/2022 21:25:41 PM	Trucks - Google Docs	https://docs.google.com/document/d/1D-T0Ea8ojJN2CDj_0PujQa76s34rXpNaDf6T3W1l-so/edit
+11/13/2022 21:26:24 PM	Trucks - Google Docs	https://docs.google.com/document/d/1D-T0Ea8ojJN2CDj_0PujQa76s34rXpNaDf6T3W1l-so/edit
+11/14/2022 11:45:51 AM	COMP 530, Fall 2022: Operating Systems	https://www.cs.unc.edu/~porter/courses/comp530/f22/
+11/14/2022 11:45:52 AM	COMP 530: Labs	https://www.cs.unc.edu/~porter/courses/comp530/f22/labs.html
+11/14/2022 11:45:54 AM	COMP 530: Lab 4: Synchronization	https://www.cs.unc.edu/~porter/courses/comp530/f22/lab4.html
+11/14/2022 11:53:11 AM	Sign in to GitHub � GitHub	https://github.com/session
+11/14/2022 11:52:44 AM	Sign in to GitHub � GitHub	https://classroom.github.com/login
+11/14/2022 11:52:44 AM	Sign in to GitHub � GitHub	https://github.com/login?client_id=Iv1.a84bfcae38835499&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3DIv1.a84bfcae38835499%26redirect_uri%3Dhttps%253A%252F%252Fclassroom.github.com%252Fauth%252Fgithub%252Fcallback%26response_type%3Dcode%26state%3De6baa73f23aa52aa78b322bff40744df28f8495ad422dc98
+11/14/2022 11:59:03 AM	GitHub Classroom	https://classroom.github.com/a/jw6HLzA1
+11/14/2022 11:58:01 AM	GitHub Classroom	https://github.com/login/oauth/authorize?client_id=Iv1.a84bfcae38835499&redirect_uri=https%3A%2F%2Fclassroom.github.com%2Fauth%2Fgithub%2Fcallback&response_type=code&state=e6baa73f23aa52aa78b322bff40744df28f8495ad422dc98
+11/14/2022 11:57:46 AM	GitHub � Where software is built	https://github.com/sessions/verified-device
+11/14/2022 11:58:04 AM	GitHub Classroom	https://classroom.github.com/auth/github/callback?browser_session_id=2656d4936c95dc451a7c14da096be87f24e98ee876305c7cd381f3da629297bc&code=54f31c5556d2450f8127&state=e6baa73f23aa52aa78b322bff40744df28f8495ad422dc98
+11/14/2022 11:59:03 AM	GitHub Classroom	https://classroom.github.com/assignment-invitations/73bfd8bf0e61e61d6508053f378ee043/team
+11/14/2022 11:58:15 AM	GitHub Classroom	https://classroom.github.com/assignment-invitations/73bfd8bf0e61e61d6508053f378ee043/team?page=2
+11/14/2022 11:59:56 AM	GitHub Classroom	https://classroom.github.com/assignment-invitations/73bfd8bf0e61e61d6508053f378ee043?roster=
+11/14/2022 12:00:08 PM	GitHub Classroom	https://classroom.github.com/assignment-invitations/73bfd8bf0e61e61d6508053f378ee043/team?roster=
+11/14/2022 12:00:02 PM	GitHub Classroom	https://classroom.github.com/assignment-invitations/73bfd8bf0e61e61d6508053f378ee043/team?page=2&roster=
+11/14/2022 12:01:13 PM	programming-with-threads.pdf	https://www.cs.unc.edu/~porter/courses/comp530/f22/papers/programming-with-threads.pdf
+11/14/2022 15:16:12 PM	Sakai @ UNC-Chapel Hill : Academic Advising - Class of 2023 : Overview	https://sakai.unc.edu/portal/site/6a345cad-a7d5-48cd-8a47-db88ce324847/page/5d33b5da-26a2-4b7a-8be2-d0496cd945d5
+11/14/2022 15:16:12 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
+11/14/2022 15:16:17 PM	COMP 530, Fall 2022: Operating Systems	https://www.cs.unc.edu/~porter/courses/comp530/f22/
+11/14/2022 15:24:16 PM	COMP 530: Schedule	https://www.cs.unc.edu/~porter/courses/comp530/f22/syllabus.html
+11/14/2022 15:24:13 PM	COMP 530: Labs	https://www.cs.unc.edu/~porter/courses/comp530/f22/labs.html
+11/14/2022 15:24:35 PM	threads.pdf	https://www.cs.unc.edu/~porter/courses/comp530/f22/slides/threads.pdf
+11/14/2022 14:42:10 PM	locking.pdf	https://www.cs.unc.edu/~porter/courses/comp530/f22/slides/locking.pdf
+11/14/2022 15:16:08 PM	UNC-Chapel Hill Single Sign-On	https://sso.unc.edu/idp/profile/SAML2/Redirect/SSO?SAMLRequest=fZJdb4IwFIb%2FCum9FNABNkLi9GImbhphu9jNUstxNist6yn7%2BPdDccYli9d9P%2Fo%2BORPktWrYtHV7vYH3FtB5X7XSyI4PGWmtZoajRKZ5DcicYMX0fskiP2CNNc4Io4g3RQTrpNEzo7GtwRZgP6SAx80yI3vnGmSUIn%2Fj0m%2B18KFqabGX261R4PY%2BoqGH0IiuV0VJvHn3C6n5Ie%2FCjebslVVDu%2FKdVHAybqCSFoSjRbEi3mKekZchxGkSxEkqeBDcbONdmsaCiyQcDsejMew6GWILC42Oa5eRKIiiQRgOwlEZBSyMWZA8E2992ngrdSX163Ug216E7K4s14N%2BzBNYPA7pBCSfHLCyY7G9AH09lv%2FSJfn%2FLPHMckIvCvq2hj10iYv52igpvr2pUuZzZoE7yEhIaN5b%2Ft5A%2FgM%3D&RelayState=ss%3Amem%3A0b731267d1b57cfe62fb70442c141c7a4fba0605443fa9e5d08ae886f4f968ec&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=YK62ZOpAumrXew7ic5TiJHID4AuQVIDTG6lz3WU4rewNap9fDcnpG0AZO0VxSLryP9ltB6%2FLAKKKe%2FFIjaPw84nWGFZbiGPnf6ofvjzZf0O%2BVTc5usDoZ%2FBHXrIsla1oEQ%2Bfm%2Fc4ocwrxouBM%2FUq6tQdVRtlQr2YFmex76u15FFf%2B%2FValM06MCTBE%2BT2r6BzvSsoEk%2BZfzWWTwhzExKcwSDIyB%2FZd%2Fl%2FvltxJ1Ew5LuNjY0ztAqzgkeJMYp4K301l6m8pC5F%2BcXIZaaF%2BAWIyXTc%2Fa%2Bu3pNB3fvo1SWDxQm%2Fc2%2BzsU8A0BCiEdlOubGAqrQxoPmA4k%2BW8g4rQYuJEQ%3D%3D
+11/14/2022 15:25:50 PM	11/07 Lecture - Google Docs	https://docs.google.com/document/d/1tXtlfqndinTNgvFYiaGmhcc1DaWlbZ0EgFrKzWeprlk/edit
+11/14/2022 15:25:44 PM	11/07 Lecture - Google Docs	https://docs.google.com/document/d/1tXtlfqndinTNgvFYiaGmhcc1DaWlbZ0EgFrKzWeprlk/edit?usp=drive_web&ouid=100407440431679426204
+11/14/2022 15:38:47 PM	11/07 Lecture - Google Docs	https://docs.google.com/document/d/1tXtlfqndinTNgvFYiaGmhcc1DaWlbZ0EgFrKzWeprlk/edit
+11/14/2022 16:08:01 PM	Untitled document - Google Docs	https://docs.google.com/document/create?usp=drive_web&ouid=100407440431679426204&folder=1YeYfmBx_uI4gVj2h6Fo0uo53PZ-WBXkm
+11/14/2022 16:08:05 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:14:07 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:23:10 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:28:44 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:33:57 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:38:49 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:43:40 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:47:30 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:53:45 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 16:58:31 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:02:14 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:08:37 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:13:46 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:18:40 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:23:52 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:27:51 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:41:33 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 17:48:37 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 18:10:46 PM	11/07 Lecture - Google Docs	https://docs.google.com/document/d/1tXtlfqndinTNgvFYiaGmhcc1DaWlbZ0EgFrKzWeprlk/edit
+11/14/2022 18:48:39 PM	11/07 Lecture - Google Docs	https://docs.google.com/document/d/1tXtlfqndinTNgvFYiaGmhcc1DaWlbZ0EgFrKzWeprlk/edit
+11/14/2022 19:07:55 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 19:30:25 PM	11/14 Lecture - Google Docs	https://docs.google.com/document/d/1QU-FZwJZt46O4eDkM2HSywpiDe4-aSvTB8yMxR9965Y/edit
+11/14/2022 20:04:50 PM	COMP 530, Fall 2022: Operating Systems	https://www.cs.unc.edu/~porter/courses/comp530/f22/
+11/14/2022 20:04:53 PM	COMP 530: Labs	https://www.cs.unc.edu/~porter/courses/comp530/f22/labs.html
+11/14/2022 20:05:26 PM	11/07 Lecture - Google Docs	https://docs.google.com/document/d/1tXtlfqndinTNgvFYiaGmhcc1DaWlbZ0EgFrKzWeprlk/edit
+11/14/2022 20:05:12 PM	COMP 530: Lab 4: Synchronization	https://www.cs.unc.edu/~porter/courses/comp530/f22/lab4.html
+11/14/2022 20:05:10 PM	403 Forbidden	https://www.cs.unc.edu/~porter/courses/comp530/f22/papers/programming-with-threads.pdf
+11/14/2022 20:42:17 PM	COMP 530: Lab 4: Synchronization	https://www.cs.unc.edu/~porter/courses/comp530/f22/lab4.html
+11/14/2022 20:51:56 PM	COMP 530: Lab 4: Synchronization	https://www.cs.unc.edu/~porter/courses/comp530/f22/lab4.html
+11/14/2022 21:07:01 PM	COMP 530: Lab 4: Synchronization	https://www.cs.unc.edu/~porter/courses/comp530/f22/lab4.html
